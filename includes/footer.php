@@ -2,7 +2,7 @@
     <div class="footer-container">
         <div class="footer-content">
             <div class="footer-section">
-                <h3>Sports Club Management</h3>
+                <h3>OUSL Sports Club Management</h3>
                 <p>Managing sports activities and equipment efficiently.</p>
             </div>
             
@@ -17,14 +17,14 @@
             
             <div class="footer-section">
                 <h3>Contact Info</h3>
-                <p>Email: info@sportsclub.com</p>
+                <p>Email: sportsclub@ou.ac.lk</p>
                 <p>Phone: +94 11 234 5678</p>
-                <p>Address: Colombo, Sri Lanka</p>
+                <p>Address: The Open University of Sri Lanka, Nawala, Nugegoda.</p>
             </div>
         </div>
         
         <div class="footer-bottom">
-            <p>&copy; <?php echo date('Y'); ?> Sports Club Management System. All rights reserved.</p>
+            <p>&copy; <?php echo date('Y'); ?> OUSL Sports Club Management System. All rights reserved.</p>
         </div>
     </div>
 </footer>

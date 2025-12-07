@@ -7,7 +7,7 @@ require_once 'includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sports Club Management System</title>
+    <title>OUSL Sports Club Management System</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
         .hero-section {
@@ -77,8 +77,8 @@ require_once 'includes/config.php';
 <body>
     <!-- Hero Section -->
     <div class="hero-section">
-        <h1>Sports Club Management System</h1>
-        <p>Manage your sports club efficiently with our comprehensive management system</p>
+        <h1>OUSL Sports Club Management System</h1>
+        <p>Manage OUSL Sports Club efficiently with the comprehensive management system</p>
         <div class="hero-buttons">
             <a href="member/register.php" class="btn btn-primary">Join as Member</a>
             <a href="member/login.php" class="btn btn-success">Member Login</a>
