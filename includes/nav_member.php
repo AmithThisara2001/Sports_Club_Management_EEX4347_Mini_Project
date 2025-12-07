@@ -1,7 +1,10 @@
 <nav class="main-nav member-nav">
     <div class="nav-container">
         <div class="nav-brand">
-            <a href="dashboard.php">OUSL Sports Club</a>
+            <a href="dashboard.php">
+                <img src="../images/ousl-logo.jpg" alt="OUSL Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
+                OUSL Sports Club
+            </a>
         </div>
         
         <ul class="nav-menu">
